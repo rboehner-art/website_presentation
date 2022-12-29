@@ -47,17 +47,17 @@
                         <div class="card bg-light text-center border-light shadow h-100">
                             <!--Optional Card Image-->
                             <div class="card-body">
-                                <img src="" alt="">
-                                <h3 class="card-title">Hello There!</h3>
+                                <img src="images/Excel-yardmap.jpg" alt="Excel-yardmap" width="400" height="auto">
+                                <h3 class="card-title">Creativity with Excel</h3>
                                 <hr class="bg-primary/>
-                                <p class="card-text">I will one day finish this text.</p>
+                                <p class="card-text">This was a yard map that I created using Excel and Numbers for use with an Ipad to keep track of busses locations.</p>
 
                                 </p>
 
                             </div>
                             <!--Optional Footer with Button-->
                             <div class="card-footer">
-                                <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="#">Read More</a>
+                                <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="#">Click to Download</a>
 
                             </div>
 
@@ -81,7 +81,7 @@
         </div>
         <!--Optional Footer with Button-->
         <div class="card-footer">
-            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="Ramsey Resume 2022 webprograming.pdf">Read More</a>
+            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="">Read More</a>
 
         </div>
 
