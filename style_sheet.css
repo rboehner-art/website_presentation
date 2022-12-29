@@ -1,0 +1,12 @@
+
+
+.mainHeader {
+    height: 100vh;
+    min-height: 40em;
+    background-image:url(images/stone_wall_1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+}

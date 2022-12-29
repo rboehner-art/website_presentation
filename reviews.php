@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review</title>
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+    <!--styles-->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
+</head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <a href="Main_Page.php" class="navbar-brand">My Site</a>
+ <button class="navbar-toggler" 
+            data-toggle="collapse" 
+             data-target="#navContent"
+             aria-controls="navContent"                                                    
+             aria-expanded="false"
+             aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+ </button>
+        <div class="collapse navbar-collapse" id="navContent">
+                                <ul class="navbar-nav">
+                <li class="navbar-item"><a href="Portfolio.php" class="nav-link">Portfolio</a></li>
+                <li class="navbar-item"><a href="Contact_Form.php"class="nav-link">Contact</a></li>
+                <li class="navbar-item"><a href="About.php" class="nav-link">About</a></li>
+                <li class="navbar-item"><a href="Resume.php" class="nav-link">Resume</a></li>
+                <li class="navbar-item"><a href="reviews.php" class="nav-link">Reviews</a></li>
+                    <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                                </ul>
+        </div>
+</nav>
+    <main>
+       <section class="container">
+       <!--title-->
+       <div class="title" >
+       <h2> our reviews</h2>
+       <div class="underline" ></div>
+       </div>
+       <!--review-->
+       <article class="review" >
+        <div class="img-contatiner">
+            <img src="person-1.jpeg" id="person-img" alt="person"
+        </div>
+        <h4 id="author">sara jones</h4>
+        <p id="job">ux designer </p>
+        <p id="info" >
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            Sint, veniam? Quos, laudantium. Deleniti fugiat id esse 
+            dolorum voluptates eligendi aut cupiditate possimus veritatis, 
+            distinctio ab iste, iure quam laborum qui!
+
+        </p>
+        <article class="review" >
+          <div class="img-contatiner">
+              <img src="person-1.jpeg" id="person-img" alt="person"
+          </div>
+          <h4 id="author">sara jones</h4>
+          <p id="job">ux designer </p>
+          <p id="info" >
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Sint, veniam? Quos, laudantium. Deleniti fugiat id esse 
+              dolorum voluptates eligendi aut cupiditate possimus veritatis, 
+              distinctio ab iste, iure quam laborum qui!
+  
+          </p>
+        <!--prev next button-->
+        <div class="button-container">
+            <button class="prev-btn">
+              <i class="fa fa-chevron-left"></i>
+            </button>
+            <button class="next-btn">
+              <i class="fa fa-chevron-right"></i>
+            </button>
+          </div>
+          <!-- random button -->
+          <button class="random-btn">surprise me</button>
+
+
+       </article>
+    </section>
+
+    <!--javascript-->
+    <script src="app.js" ></script>
+</body>
+</html>
