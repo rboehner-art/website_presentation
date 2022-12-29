@@ -99,15 +99,15 @@
   <div class="row">
     <div class="col-sm-4">
       <p>This is my new car a Mazda CX-5</p>
-      <img src="images/Mazda_cx-5.jpeg" class="img-responsive margin" style= "height=300" "width:auto"  alt="">
+      <img src="images/Mazda_cx-5.jpeg" class="img-responsive margin" style= "height=300" "width:auto"  alt="Mazda_CX-5_Salt_Flats">
     </div>
     <div class="col-sm-4"> 
       <p>I like taking close up photo's of flowers with my Iphone on hikes</p>
-      <img src="images/Uinta-Wasatch-Cache, July 25, 2022/IMG_1402.jpeg" class="img-responsive margin" style="width:600px" alt="Image">
+      <img src="images/Uinta-Wasatch-Cache, July 25, 2022/IMG_1402.jpeg" class="img-responsive margin" style="width:600px" alt="Flowers">
     </div>
     <div class="col-sm-4"> 
      <p class="p1">Taking selfie's with shy friends</p>
-      <img src="images/August 22, 2022/IMG_2557.jpeg" class="img-responsive margin" style="width: 400px;" alt="Image">
+      <img src="images/August 22, 2022/IMG_2557.jpeg" class="img-responsive margin" style="width: 400px;" alt="Selfie">
     </div>
   </div>
 </div>

@@ -132,7 +132,7 @@
                                 <img src="" alt="">
                                 <h3 class="card-title">Hello There!</h3>
                                 <hr class="bg-primary/>
-                                <p class="card-text">I will one day finish this text.</p>
+                                <p class="card-text">Future work!</p>
 
                                 </p>
 
@@ -156,7 +156,7 @@
             <img src="" alt="" height="450" width="auto">
             <h3 class="card-title">Hello There!</h3>
             <hr class="bg-primary/>
-            <p class="card-text">I will one day finish this text.
+            <p class="card-text">Future work!
 
             </p>
 
@@ -179,7 +179,7 @@
             <img src="" alt="">
             <h3 class="card-title">Hello There!</h3>
             <hr class="bg-primary/>
-            <p class="card-text">I will one day finish this text.
+            <p class="card-text">Future work!
 
             </p>
 

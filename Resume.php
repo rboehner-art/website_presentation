@@ -34,7 +34,7 @@
                             <li class="navbar-item"><a href="Contact_Form.php"class="nav-link">Contact</a></li>
                             <li class="navbar-item"><a href="About.php" class="nav-link">About</a></li>
                             <li class="navbar-item"><a href="Resume.php" class="nav-link">Resume</a></li>
-                            <li class="navbar-item"><a href="reviews.php" class="nav-link">Reviews</a></li>
+                            
                                 <form class="form-inline my-2 my-lg-0">
                                         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
                                         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
@@ -43,7 +43,7 @@
                     </div>
         </nav>
     
-    <iframe src="" height="px" width="2000" title="Iframe Example"></iframe>
+    
     
     <div class="container" style="margin-top:40px" >
         <div class="row">
@@ -70,7 +70,8 @@
  }
  newList($skills);
 ?>
-
+<h6>Downloadable Resume:</h6>
+<a type="button" class="btn btn-primary" role="button" href="PDF-Documents/Ramsey-Resume-2023-January-website.pdf" download>Click to Download</a>
            
             <hr class="d-sm-none">
           </div>
