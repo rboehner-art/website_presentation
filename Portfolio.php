@@ -57,7 +57,7 @@
                             </div>
                             <!--Optional Footer with Button-->
                             <div class="card-footer">
-                                <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="#">Click to Download</a>
+                                <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="images/Excel-yardmap.jpg" download>Click to Download</a>
 
                             </div>
 
@@ -71,17 +71,17 @@
         <!--Optional Card Image-->
         <div class="card-body">
             
-            <img src="" alt="" height="450" width="auto">
-            <h3 class="card-title">Hello There!</h3>
+            <img src="images/Daily_Maintenance_publisher.jpg" alt="Publisher_Daily_Maintenance" height="400" width="auto">
+            <h3 class="card-title">Using Publisher</h3>
             <hr class="bg-primary/>
-            <p class="card-text">I will one day finish this text.
+            <p class="card-text">This is an example of using Microsoft Publisher to create a daily record form for use at ARUP. 
 
             </p>
 
         </div>
         <!--Optional Footer with Button-->
         <div class="card-footer">
-            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="">Read More</a>
+            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="PDF-Documents/IDAT Daily Maintanince.3.pdf" download>Click and Download</a>
 
         </div>
 
@@ -94,17 +94,17 @@
     <div class="card bg-light text-center border-light shadow h-100">
         <!--Optional Card Image-->
         <div class="card-body">
-            <img src="" alt="">
-            <h3 class="card-title">Hello There!</h3>
+            <img src="images/Writing_subscritption.jpg" height="250" width="auto"  alt="Essay_Subscription">
+            <h3 class="card-title">Essay on Subscription services</h3>
             <hr class="bg-primary/>
-            <p class="card-text">I will one day finish this text.
+            <p class="card-text">This an example of writing I did at SLCC on Subscription services.
 
             </p>
 
         </div>
         <!--Optional Footer with Button-->
         <div class="card-footer">
-            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="#">Read More</a>
+            <a class="btn btn-outline-primary btn-1lg mt-2" role="button" href="PDF-Documents/subscritption services.pdf" download>Click and Download</a>
 
         </div>
    
